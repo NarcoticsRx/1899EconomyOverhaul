@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\devin\source\repos\1899EconomyOverhaul\1899EconomyOverhaul\main.cpp(50,49): warning C4244: 'return': conversion from 'Any' to 'int', possible loss of data
+  Generating code
+  14 of 164 functions ( 8.5%) were compiled, the rest were copied from previous compilation.
+    9 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  1899EconomyOverhaul.vcxproj -> C:\Users\devin\source\repos\1899EconomyOverhaul\x64\Release\1899EconomyOverhaul.asi

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1899EconomyOverhaul/1899EconomyOverhaul.vcxproj" Id="eca46d98-fe08-4656-bd98-e358b0015617">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+</Solution>
