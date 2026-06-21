@@ -254,7 +254,7 @@ void update()
 				else if (isGamblingShieldActive) {
 					Log("UNTAXED: Valid Gambling Proximity Active - Transaction ignored. Amount: %s", FormatMoney(diff).c_str());
 				}
-				else if (inMenu) {
+				else if (inMenu && !currentMissionState) {
 					Log("UNTAXED: Menu/Catalog Active - Transaction ignored. Amount: %s", FormatMoney(diff).c_str());
 				}
 			}
